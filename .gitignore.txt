@@ -1,0 +1,2 @@
+#git ignore all .py files
+*.py
