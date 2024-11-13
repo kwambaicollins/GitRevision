@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # Constants
-API_KEY = "bfd81b00959c6538809ae4c0fa53231a"  # Your 2Captcha API key
+API_KEY = "bfd817800959c6538809ae4c0fa53231a"  # Your 2Captcha API key
 SITE_KEY = "f9441a9e-cf26-451a-9aa4-6e526ec0e222"  # hCaptcha site key from iframe
 PAGE_URL = "https://satuk-awards.vercel.app/vote"
 MAX_CAPTCHA_RETRIES = 3  # Maximum retries for solving captcha
